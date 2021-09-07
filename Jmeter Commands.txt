@@ -6,3 +6,5 @@ jmeter.bat -q C:\apache-jmeter-5.4.1\bin\test_conf\test_conf_env\global_test.pro
 
 
 jmeter.bat -q C:\apache-jmeter-5.4.1\bin\PATSYN\ps_conf\ps_conf_environment\global.properties
+
+Test 1 - This is test message
